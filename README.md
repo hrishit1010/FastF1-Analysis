@@ -48,6 +48,10 @@ All data fetching in `script.py` is handled by `fastf1` functions like `ff1.get_
 * **Data Files (Not Included):** The GUI requires helper CSV files (`events.csv`, `drivers.csv`, `laps.csv`) to populate the dropdown menus.
 
 ---
+###Screenshot
+<img width="1188" height="628" alt="image" src="https://github.com/user-attachments/assets/a985a96c-502b-4660-bbe7-74587e2fcf2c" />
+<img width="1184" height="635" alt="image" src="https://github.com/user-attachments/assets/38e5cbc3-4bdf-41f3-8498-716a00e20d43" />
+<img width="1198" height="632" alt="image" src="https://github.com/user-attachments/assets/2bbf42dc-eb10-48f0-94fa-e3db6301553a" />
 
 ## How to Run
 
