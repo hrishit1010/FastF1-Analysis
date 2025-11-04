@@ -62,10 +62,6 @@ You must have Python and the following libraries installed. `fastf1` is the key 
 ```sh
 pip install fastf1 pandas matplotlib pyqt5
 
-###Screenshot
-<img width="1188" height="628" alt="image" src="https://github.com/user-attachments/assets/a985a96c-502b-4660-bbe7-74587e2fcf2c" />
-<img width="1184" height="635" alt="image" src="https://github.com/user-attachments/assets/38e5cbc3-4bdf-41f3-8498-716a00e20d43" />
-<img width="1198" height="632" alt="image" src="https://github.com/user-attachments/assets/2bbf42dc-eb10-48f0-94fa-e3db6301553a" />
 
 
 
